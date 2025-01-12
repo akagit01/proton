@@ -1,6 +1,7 @@
 # Prerequisites
 #####
 # adding a comment to practice tags
+# adding another comment to finally get done with this tag practice
 - JDK 21
 - Maven 3.9 
 - MySQL 8
